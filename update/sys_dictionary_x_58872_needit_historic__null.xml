@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_58872_needit_historic_">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="x_58872_needit_historic_">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -26,6 +26,8 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
