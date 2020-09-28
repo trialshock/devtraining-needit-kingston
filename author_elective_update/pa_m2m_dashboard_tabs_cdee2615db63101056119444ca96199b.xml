@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="NeedIt Application">ea1e2ad1db63101056119444ca9619ba</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 16:45:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>cdee2615db63101056119444ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ea1e2ad1db63101056119444ca9619ba</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_cdee2615db63101056119444ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 16:45:52</sys_updated_on>
+        <tab display_value="NeedIt Application - New Tab 2">41ee2615db63101056119444ca96199a</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2e92798edb29db006578f22ebf961969</instance_id>
+        <instance_name>dev56796</instance_name>
+        <name>pa_m2m_dashboard_tabs_cdee2615db63101056119444ca96199b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="NeedIt Application">ea1e2ad1db63101056119444ca9619ba</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-28 16:45:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>cdee2615db63101056119444ca96199b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ea1e2ad1db63101056119444ca9619ba</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_cdee2615db63101056119444ca96199b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-28 16:45:52</sys_updated_on><tab display_value="NeedIt Application - New Tab 2">41ee2615db63101056119444ca96199a</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>821167817</payload_hash>
+        <record_name>ea1e2ad1db63101056119444ca9619ba</record_name>
+        <reverted_from/>
+        <source>570ed215db23101056119444ca96196a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 16:45:52</sys_created_on>
+        <sys_id>c5ee2615db63101056119444ca96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174d59b34d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 16:45:52</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>cdee26150d6310101753e4645e996f9c</update_guid>
+        <update_guid_history>cdee26150d6310101753e4645e996f9c:821167817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-09-28 18:46:32">be0fa615db63101056119444ca9619c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 16:46:32</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0189e2d7f1e7447280073cc4f2646a21</sys_id>
+        <sys_metadata>cdee2615db63101056119444ca96199b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ea1e2ad1db63101056119444ca9619ba</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt Application">ea1e2ad1db63101056119444ca9619ba</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_cdee2615db63101056119444ca96199b</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_cdee2615db63101056119444ca96199b">c5ee2615db63101056119444ca96199d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 16:46:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
